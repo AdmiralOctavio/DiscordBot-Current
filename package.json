@@ -1,0 +1,24 @@
+{
+  "name": "akkobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accurate-interval": "^1.0.9",
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^11.5.1",
+    "edit-file": "^0.3.0",
+    "fs": "0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "imageapi.js": "^1.0.5",
+    "plotly": "^1.0.6",
+    "random-puppy": "^1.1.0",
+    "tenor": "^1.0.1",
+    "tenorjs": "^1.0.7"
+  }
+}
